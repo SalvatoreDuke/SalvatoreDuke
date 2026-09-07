@@ -1,4 +1,4 @@
-## Olá, eu sou o Salvatore 👋
+## Olá, eu sou o Salvatore 
 
 Estudante de Ciência da Computação em São Carlos - SP, com foco em fundamentos:
 algoritmos, estruturas de dados e código que continua legível depois de seis meses.
