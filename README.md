@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**SalvatoreDuke/SalvatoreDuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ## Olá, eu sou o Salvatore 👋
 
 Estudante de Ciência da Computação em São Carlos - SP, com foco em fundamentos:
@@ -31,4 +25,3 @@ algoritmos, estruturas de dados e código que continua legível depois de seis m
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatore-costanzo-640740237/)
-
